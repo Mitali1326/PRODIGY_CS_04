@@ -1,0 +1,1 @@
+Developed a basic Keylogger using Python and pynput to capture keystrokes and log them with timestamps into a file. Pressing ESC stops the logger. A practical project to explore keyboard event handling—only for ethical, educational, and authorized use.t
